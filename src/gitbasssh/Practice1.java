@@ -6,6 +6,8 @@ public class Practice1 {
 
 
 		System.out.println("First practice");
+		
+		System.out.println("kanta jote rekha");
 
 	}
 
